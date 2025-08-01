@@ -1,0 +1,17 @@
+{
+  "mcpServers": {
+    "mcp-taskmanager": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@smithery/cli@latest",
+        "run",
+        "@kazuph/mcp-taskmanager",
+        "--key",
+        "2f017bbb-e8e5-48df-86ee-bff4f4960b82",
+        "--profile",
+        "impressed-porpoise-euIKr5"
+      ]
+    }
+  }
+}
